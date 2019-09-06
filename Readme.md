@@ -1,8 +1,5 @@
 
 ## Installation Steps:
-1. Update the config/config.json file with database credentials. Here, we can use multiple environemnt credentials.
-2. Run the migrations 
-
  1. Clone the repository
     ```sh
     $ git clone https://github.com/amitrhd/hiring-task.git

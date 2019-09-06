@@ -1,0 +1,19 @@
+{
+  "name": "hiring-task",
+  "version": "1.0.0",
+  "description": "hiring task for marsplay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amitrhd/hiring-task.git"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitrhd/hiring-task/issues"
+  },
+  "homepage": "https://github.com/amitrhd/hiring-task#readme"
+}
